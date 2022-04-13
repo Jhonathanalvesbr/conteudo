@@ -19,4 +19,3 @@ values(1, "Diários de um Vampiro", 4500, 8, 171, 20, CURRENT_TIMESTAMP, 0000),
 (0, "Guerra nas Estrelas", 20100, 1, 1, 1, CURRENT_TIMESTAMP, 500),
 (2, "Attack on Titan - Shingeki no Kyojin", 2000, 4, 87, 15, CURRENT_TIMESTAMP, 1500);
 
-select * from conteudo;
