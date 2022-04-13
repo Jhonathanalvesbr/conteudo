@@ -1,4 +1,5 @@
 # Controle de animes, filmes e séries
+Aplicação de controle de animes, filmes e séries com font end, back end ebanco de dados.
 
 # Instruções de uso
 
