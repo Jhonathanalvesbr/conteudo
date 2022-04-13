@@ -1,3 +1,5 @@
+#Controle de animes, filmes e séries
+
 # Instruções de uso
 
 - Instalar componentes do backend e frontend (npm i)
