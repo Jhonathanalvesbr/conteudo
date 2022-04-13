@@ -1,5 +1,6 @@
 # Controle de animes, filmes e séries
-Aplicação de controle de animes, filmes e séries com React, Front-end, Back-end e Banco de dados. Basicamente a aplicação mostra para o usuário, seu consumo de conteúdos assistidos, seja ele, anime, filme ou série.
+Aplicação de controle de animes, filmes e séries com React, Front-end, Back-end e Banco de dados.
+Basicamente a aplicação mostra para o usuário, seu consumo de conteúdos assistidos, seja ele, anime, filme ou série.
 
 # Instruções de uso
 
