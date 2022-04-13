@@ -3,7 +3,7 @@ import MovieList from './components/MovieList';
 const App = () => {
   return (
     <>
-      <h1>Seu controle de séries e filmes</h1>
+      <h1>Seu controle de anime, filmes e séries</h1>
       <MovieList />
     </>
   )

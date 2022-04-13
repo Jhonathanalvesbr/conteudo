@@ -11,7 +11,7 @@ const MovieList = () => {
     }, [])
     
     return(
-            <table className="striped">
+            <table id="customers">
                 <thead>
                 <tr>
                     <th>Nome</th>

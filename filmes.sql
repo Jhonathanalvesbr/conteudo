@@ -10,12 +10,13 @@ create table conteudo(
     ep_total int,
     ep_atual int,
     ultimo_visto DATETIME DEFAULT CURRENT_TIMESTAMP,
-    ultimo_duracao varchar(2500)
+    ultimo_duracao TIME
 );
 
 
 insert into conteudo (conteudo, nome, duracao, temporadas, ep_total, ep_atual, ultimo_visto,ultimo_duracao)
-values(1, "Diários de um Vampiro", 4500, 8, 171, 20, CURRENT_TIMESTAMP, 0000);
+values(1, "Diários de um Vampiro", 4500, 8, 171, 20, CURRENT_TIMESTAMP, 0000),
+(0, "Guerra nas Estrelas", 20100, 1, 1, 1, CURRENT_TIMESTAMP, 500),
+(2, "Attack on Titan - Shingeki no Kyojin", 2000, 4, 87, 15, CURRENT_TIMESTAMP, 1500);
 
 select * from conteudo;
-ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'rootroot';

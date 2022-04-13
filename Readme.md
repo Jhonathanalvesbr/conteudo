@@ -1,4 +1,4 @@
-#Controle de animes, filmes e séries
+# Controle de animes, filmes e séries
 
 # Instruções de uso
 
